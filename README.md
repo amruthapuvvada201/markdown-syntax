@@ -23,5 +23,11 @@
  2. ece
  	1.ecea
     2.eceb
-    
-   
+    ## code
+    ```python
+    def fun():
+    	printf("hello world")
+    ```
+   ```
+   fun()
+   ```
