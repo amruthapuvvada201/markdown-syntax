@@ -44,6 +44,8 @@
 [markdown](https://www.markdownguide.org/cheat-sheet/)
 ## college website link
 [kit](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+## inserting images
+![sunset](https://github.com/amruthapuvvada201/markdown-syntax/blob/master/sunset.jfif)
 
 
 
