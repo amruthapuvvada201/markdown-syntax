@@ -33,3 +33,9 @@
    ```
    ## task
    	printf("hello apssdc");
+## task2
+```
+#include <stdio.h>
+	int main()
+	printf("hello apssdc")
+```
